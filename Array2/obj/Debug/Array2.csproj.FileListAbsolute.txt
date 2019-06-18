@@ -1,0 +1,6 @@
+D:\18.11.2279\11\Array\Array2\obj\Debug\Array2.csproj.CoreCompileInputs.cache
+D:\18.11.2279\11\Array\Array2\bin\Debug\Array2.exe.config
+D:\18.11.2279\11\Array\Array2\bin\Debug\Array2.exe
+D:\18.11.2279\11\Array\Array2\bin\Debug\Array2.pdb
+D:\18.11.2279\11\Array\Array2\obj\Debug\Array2.exe
+D:\18.11.2279\11\Array\Array2\obj\Debug\Array2.pdb
